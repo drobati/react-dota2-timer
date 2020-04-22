@@ -15,3 +15,4 @@ Helps me keep track of events.
 - [ ] Preference: Creep Pull Timer Toggle
 - [ ] Better styling
 - [ ] Warning flash
+- [ ] Cleanup CRA cruft
